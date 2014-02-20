@@ -6,7 +6,7 @@ $(document).ready(function(){
 });
 
 function getMeetups(topic, zipcode){
-	var api_key = "50722e1d56c194e61763a2ee1e4535";
+	var api_key = "get_your_owb";
 	var url = "https://api.meetup.com/2/";
 	var method = "open_events"
 	$.ajax({
