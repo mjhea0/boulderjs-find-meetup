@@ -5,3 +5,4 @@
 3. Add data to tables
 3. Add mouse enter / mouse leave to events
 4. Add seperate config file for Meetup info
+5. Sync with Google Maps API to locate meetups on a map
